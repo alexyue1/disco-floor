@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=startX\ startY\ width\ height\ c
+comment0.target=Block(int,\ int,\ int,\ int,\ java.awt.Color)
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment2.params=
+comment2.target=int\ getStartX()
+comment3.params=
+comment3.target=int\ getStartY()
+comment4.params=
+comment4.target=int\ getWidth()
+comment5.params=
+comment5.target=int\ getHeight()
+numComments=6
